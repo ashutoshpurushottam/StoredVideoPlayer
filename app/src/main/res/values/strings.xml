@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stored Video Player</string>
+    <string name="movie_image" translatable="false">movie image</string>
+    <string name="volume_button" translatable="false">volume button</string>
+    <string name="permission_storage_rationale">Please consider granting permission to read external storage.</string>
+    <string name="ok">OK</string>
+    <string name="permission_denied">Could not access videos in external storage because the permission was denied.</string>
+    <string name="no_videos">No videos found in external storage.</string>
+</resources>
