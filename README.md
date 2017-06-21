@@ -1,5 +1,5 @@
-# A simple android Video Player (coded quickly in 4 hours of time)
-
+# A simple android Video Player 
+## Coded in quick time of three hours. The code is not ideal. Copy at your own risk!
 ## Features 
 1. Displays a list of videos stored in the external storage  of the device.
 2. Displays the list using RecyclerView (tries to show thumbnail of the videos else renders default image)
